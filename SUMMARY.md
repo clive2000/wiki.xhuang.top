@@ -14,4 +14,4 @@
 * [Linux system resource monitor](gists/linux-system-resource-monitor.md)
 * [Control Supermicro board's fan speed using IPMITool](gists/control-supermicro-boards-fan-speed-using-ipmitool.md)
 * [Use systemd and /etc/fstab to mount CIFS share](gists/use-systemd-and-etc-fstab-to-mount-cifs-share.md)
-
+* [Good and bad about systemd](gists/systemd.md)
