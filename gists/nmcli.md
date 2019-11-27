@@ -1,5 +1,4 @@
-# NetworkManager example
-
+# Nmcli
 
 ## Enable NetowkrManger service
 
@@ -9,6 +8,7 @@ systemctl start NetworkManager
 ```
 
 ## Connect to wifi
+
 ```bash
 nmcli device wifi connect SSID password password
 ```
@@ -26,3 +26,4 @@ nmcli con up "static-ens32" ifce ens32
 ```bash
 nmcli connection add type ethernet con-name connection-name ifname interface-name
 ```
+

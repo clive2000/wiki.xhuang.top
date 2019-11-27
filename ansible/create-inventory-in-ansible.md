@@ -1,0 +1,2 @@
+# Create Inventory in Ansible
+

@@ -17,3 +17,15 @@
 * [Good and bad about systemd](gists/systemd.md)
 * [Nmcli](gists/nmcli.md)
 * [ansible](gists/ansible.md)
+* [x265 CPU/NVENC 视频编码质量测试](gists/x265-cpunvenc-shi-pin-bian-ma-zhi-liang-ce-shi.md)
+
+## Ansible
+
+* [Create Inventory in Ansible](ansible/create-inventory-in-ansible.md)
+* [Using ansible-playbook to run playbook](ansible/using-ansible-playbook-to-run-playbook.md)
+* [Use ssh-copy-id to copy cert to remote machine](ansible/use-ssh-copy-id-to-copy-cert-to-remote-machine.md)
+
+## Docker
+
+* [Run a docker image intractively](docker/run-a-docker-image-intractively.md)
+

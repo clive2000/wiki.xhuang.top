@@ -4,8 +4,7 @@ description: fontconfig file. Place this under ~/.config/fontconfig
 
 # fonts.conf
 
-{% code-tabs %}
-{% code-tabs-item title="fonts.conf" %}
+{% code title="fonts.conf" %}
 ```text
 <?xml version='1.0'?>
 <!DOCTYPE fontconfig SYSTEM 'fonts.dtd'>
@@ -118,8 +117,7 @@ description: fontconfig file. Place this under ~/.config/fontconfig
 </fontconfig>
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 
 

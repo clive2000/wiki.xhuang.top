@@ -1,22 +1,22 @@
-# The good and bad about systemd
+# Good and bad about systemd
 
+## The good and bad about systemd
 
-# Some links
-https://news.ycombinator.com/item?id=19960165
+## Some links
 
-https://suckless.org/sucks/systemd/
+[https://news.ycombinator.com/item?id=19960165](https://news.ycombinator.com/item?id=19960165)
 
-http://judecnelson.blogspot.com/2014/09/systemd-biggest-fallacies.html
+[https://suckless.org/sucks/systemd/](https://suckless.org/sucks/systemd/)
 
-https://chiefio.wordpress.com/2016/05/18/systemd-it-keeps-getting-worse/
+[http://judecnelson.blogspot.com/2014/09/systemd-biggest-fallacies.html](http://judecnelson.blogspot.com/2014/09/systemd-biggest-fallacies.html)
 
-http://without-systemd.org/wiki/index.php/Arguments_against_systemd
+[https://chiefio.wordpress.com/2016/05/18/systemd-it-keeps-getting-worse/](https://chiefio.wordpress.com/2016/05/18/systemd-it-keeps-getting-worse/)
 
-http://www.softpanorama.org/Commercial_linuxes/Startup_and_shutdown/systemd.shtml#Why_systemd_took_over
+[http://without-systemd.org/wiki/index.php/Arguments\_against\_systemd](http://without-systemd.org/wiki/index.php/Arguments_against_systemd)
 
+[http://www.softpanorama.org/Commercial\_linuxes/Startup\_and\_shutdown/systemd.shtml\#Why\_systemd\_took\_over](http://www.softpanorama.org/Commercial_linuxes/Startup_and_shutdown/systemd.shtml#Why_systemd_took_over)
 
+## Defense
 
+[http://0pointer.de/blog/projects/the-biggest-myths.html](http://0pointer.de/blog/projects/the-biggest-myths.html)
 
-# Defense
-
-http://0pointer.de/blog/projects/the-biggest-myths.html
