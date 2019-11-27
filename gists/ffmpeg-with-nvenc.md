@@ -12,7 +12,9 @@
 
 handbreak extra settings:
 
+[https://docs.google.com/spreadsheets/d/1u9fKNsRcLgc-1oVV5GhBgoPGO9vLpcn-x3NUgTmeC-0/edit\#gid=0](https://docs.google.com/spreadsheets/d/1u9fKNsRcLgc-1oVV5GhBgoPGO9vLpcn-x3NUgTmeC-0/edit#gid=0)
 
+![](../.gitbook/assets/encoding_preset.PNG)
 
 no-sao:deblock=-1,-1
 

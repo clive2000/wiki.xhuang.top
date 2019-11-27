@@ -1,5 +1,9 @@
 # x265 CPU/NVENC 视频编码质量测试
 
+ 参考： [https://zhzh2001.coding.me/2018/07/22/video-encoder-test/](https://zhzh2001.coding.me/2018/07/22/video-encoder-test/)
+
+
+
 NVENC Settings: CRF22 Slow
 
 X265 Settings:
