@@ -29,3 +29,8 @@
 
 * [Run a docker image intractively](docker/run-a-docker-image-intractively.md)
 
+## Git
+
+* [On undoing, fixing, or removing commits in git](git/on-undoing-fixing-or-removing-commits-in-git.md)
+* [Delete commit history](git/delete-commit-history.md)
+
