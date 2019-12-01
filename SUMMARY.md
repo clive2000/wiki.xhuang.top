@@ -17,7 +17,8 @@
 * [Good and bad about systemd](gists/systemd.md)
 * [Nmcli](gists/nmcli.md)
 * [ansible](gists/ansible.md)
-* [x265 CPU/NVENC 视频编码质量测试](gists/x265-cpunvenc-shi-pin-bian-ma-zhi-liang-ce-shi.md)
+* [x265 CPU/NVENC 视频编码质量测试](gists/x265-cpunvenc-shi-pin-bian-ma-zhi-liang-ce-shi/README.md)
+  * [Enable autologin on debian buster](gists/x265-cpunvenc-shi-pin-bian-ma-zhi-liang-ce-shi/enable-autologin-on-debian-buster.md)
 
 ## Ansible
 
