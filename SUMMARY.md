@@ -19,6 +19,7 @@
 * [ansible](gists/ansible.md)
 * [x265 CPU/NVENC 视频编码质量测试](gists/x265-cpunvenc-shi-pin-bian-ma-zhi-liang-ce-shi/README.md)
   * [Enable autologin on debian buster](gists/x265-cpunvenc-shi-pin-bian-ma-zhi-liang-ce-shi/enable-autologin-on-debian-buster.md)
+* [rclone limit bandwidh](gists/rclone-limit-bandwidh.md)
 * [Using powershell to batch convert ppt to pdf](gists/using-powershell-to-batch-convert-ppt-to-pdf.md)
 
 ## Ansible
