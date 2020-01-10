@@ -40,4 +40,5 @@
 ## EMCA6
 
 * [Promise and Async/Await](emca6/promise-and-async-await.md)
+* [iodine](iodine.md)
 
