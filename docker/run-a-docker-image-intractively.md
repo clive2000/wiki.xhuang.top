@@ -9,7 +9,7 @@ docker image pull ubuntu:18.04
 ## Run the image to interactively
 
 ```text
-docker container -it --rm \
+docker container run -it --rm \
     ubuntu:18.04 \
     /bin/bash
 ```
