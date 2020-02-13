@@ -33,6 +33,7 @@
 ## Docker
 
 * [Run a docker image intractively](docker/run-a-docker-image-intractively.md)
+* [Caddy + Docker + Trojan 部署梯子](docker/caddy-+-docker-+-trojan-bu-shu-ti-zi.md)
 
 ## Git
 
