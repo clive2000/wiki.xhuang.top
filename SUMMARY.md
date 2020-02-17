@@ -21,6 +21,7 @@
   * [Enable autologin on debian buster](gists/x265-cpunvenc-shi-pin-bian-ma-zhi-liang-ce-shi/enable-autologin-on-debian-buster.md)
 * [rclone limit bandwidh](gists/rclone-limit-bandwidh.md)
 * [Using powershell to batch convert ppt to pdf](gists/using-powershell-to-batch-convert-ppt-to-pdf.md)
+* [DD windows on GCP](gists/dd-windows-on-gcp.md)
 * [iodine](gists/iodine.md)
 
 ## Ansible
@@ -28,7 +29,6 @@
 * [Create Inventory in Ansible](ansible/create-inventory-in-ansible.md)
 * [Using ansible-playbook to run playbook](ansible/using-ansible-playbook-to-run-playbook.md)
 * [Use ssh-copy-id to copy cert to remote machine](ansible/use-ssh-copy-id-to-copy-cert-to-remote-machine.md)
-* [DD windows on GCP](ansible/dd-windows-on-gcp.md)
 
 ## Docker
 
