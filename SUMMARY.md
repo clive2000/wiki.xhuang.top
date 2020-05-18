@@ -47,4 +47,8 @@
 ## Google APIs
 
 * [Use service account to impersonate gsuite account](google-apis/use-service-account-to-impersonate-gsuite-account.md)
+* [部署Aria2 + Rclone 自动上传](bu-shu-aria2-+-rclone-zi-dong-shang-chuan.md)
+* [部署Olaindex](bu-shu-olaindex.md)
+* [Backup Mongodb and use rclone to upload to google drive](backup-mongodb-and-use-rclone-to-upload-to-google-drive.md)
+* [Rclone alias](rclone-alias.md)
 
