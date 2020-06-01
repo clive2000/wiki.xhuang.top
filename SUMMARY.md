@@ -33,7 +33,6 @@
 ## Docker
 
 * [Run a docker image intractively](docker/run-a-docker-image-intractively.md)
-* [Caddy + Docker + Trojan 部署梯子](docker/caddy-+-docker-+-trojan-bu-shu-ti-zi.md)
 
 ## Git
 
@@ -47,8 +46,12 @@
 ## Google APIs
 
 * [Use service account to impersonate gsuite account](google-apis/use-service-account-to-impersonate-gsuite-account.md)
-* [部署Aria2 + Rclone 自动上传](bu-shu-aria2-+-rclone-zi-dong-shang-chuan.md)
-* [部署Olaindex](bu-shu-olaindex.md)
-* [Backup Mongodb and use rclone to upload to google drive](backup-mongodb-and-use-rclone-to-upload-to-google-drive.md)
 * [Rclone alias](rclone-alias.md)
+
+## Deployment
+
+* [Caddy + Docker + Trojan 部署梯子](deployment/caddy-+-docker-+-trojan-bu-shu-ti-zi.md)
+* [部署Aria2 + Rclone 自动上传](deployment/bu-shu-aria2-+-rclone-zi-dong-shang-chuan.md)
+* [部署Olaindex](deployment/bu-shu-olaindex.md)
+* [部署MongoDB 备份 + Rclone上传](deployment/backup-mongodb-and-use-rclone-to-upload-to-google-drive.md)
 
